@@ -1,0 +1,20 @@
+{
+  "name": "corewebapplication2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/knockout": "^3.4.40",
+    "knockout": "^3.4.2",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.2.2",
+    "webpack": "^2.3.3"
+  }
+, "-vs-binding":{"BeforeBuild":["build"]}
+}
