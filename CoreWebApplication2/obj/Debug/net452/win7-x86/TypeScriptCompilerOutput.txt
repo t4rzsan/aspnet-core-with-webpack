@@ -1,6 +1,0 @@
-C:\Users\Jakob\documents\visual studio 2017\Projects\CoreWebApplication2\CoreWebApplication2\wwwroot\build\MainViewModel.js
-C:\Users\Jakob\documents\visual studio 2017\Projects\CoreWebApplication2\CoreWebApplication2\wwwroot\build\MainViewModel.js.map
-C:\Users\Jakob\Source\Repos\CoreWebApplication2\CoreWebApplication2\wwwroot\build\myviewmodel.js
-C:\Users\Jakob\Source\Repos\CoreWebApplication2\CoreWebApplication2\wwwroot\build\myviewmodel.js.map
-C:\Users\Jakob\Source\Repos\CoreWebApplication2\CoreWebApplication2\wwwroot\build\myviewmodel.js
-C:\Users\Jakob\Source\Repos\CoreWebApplication2\CoreWebApplication2\wwwroot\build\myviewmodel.js.map
