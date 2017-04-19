@@ -1,7 +1,13 @@
 ﻿import * as ko from "knockout"
 
 class MyViewModel {
-    constructor(private firstname: KnockoutObservable<string>, private lastname: KnockoutObservable<string>) {
+    firstname: KnockoutObservable<string>;
+    lastname: KnockoutObservable<string>;
 
+    constructor(firstname: string, lastname: string) {
+        this.firstname = ko.observable(firstname);
+        this.lastname = ko.observable(lastname);
     }
 }
+
+ko.applyBindings(new MyViewModel("Jakob", "Christensen"));
