@@ -1,4 +1,5 @@
 ﻿import * as ko from "knockout"
+import * as $ from "jquery"
 
 class MyViewModel {
     firstname: KnockoutObservable<string>;
@@ -10,4 +11,7 @@ class MyViewModel {
     }
 }
 
-ko.applyBindings(new MyViewModel("Jakob", "Christensen"));
+var container = $("#myview-container");
+if (container.length == 1) {
+    ko.applyBindings(new MyViewModel("Jakob", "Christensen"), container[0]);
+}

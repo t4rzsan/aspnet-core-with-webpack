@@ -1,6 +1,9 @@
 node_modules
 bin
+build
+dist
 obj
+.vs
 
 *.suo
 *.user
