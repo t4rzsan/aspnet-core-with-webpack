@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var ko = require("knockout");
 var $ = require("jquery");
 var MyViewModel = (function () {
