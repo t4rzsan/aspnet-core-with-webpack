@@ -75,7 +75,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var ko = __webpack_require__(3);
 var $ = __webpack_require__(2);
-var MyViewModel = (function () {
+var MyViewModel = /** @class */ (function () {
     function MyViewModel(firstname, lastname) {
         this.firstname = ko.observable(firstname);
         this.lastname = ko.observable(lastname);

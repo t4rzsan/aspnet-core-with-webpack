@@ -1,0 +1,13 @@
+﻿{
+  "author": "Jakob Christensen",
+  "classifications": [ "Web" ],
+  "name": "ASP.NET MVC Core with Knockout/Webpack/TypeScript",
+  "identity": "t4rzsan.MvcKnockoutTypeScript", // Unique name for this template
+  "shortName": "mvcknockouttypescript", // Short name that can be used on the cli
+  "tags": {
+    "language": "C#" // Specify that this template is in C#.
+  },
+  "sourceName": "CoreWebApplication2", // Will replace the string 'Sayedha.StarterWeb' with the value provided via -n.
+  "preferNameDirectory": true,
+  "exclude": [ "**/[Bb]in/**", "**/[Oo]bj/**", ".template.config/**/*", "**/*.filelist", "**/*.user", "**/*.lock.json", "**/node_modules/**/*" ]
+}
