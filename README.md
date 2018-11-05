@@ -1,5 +1,5 @@
 # aspnet-core-with-webpack
-Example on how to set up and ASP.NET Core project with webpack 2.
+Example on how to set up an ASP.NET Core project with webpack 2.
 
 This repository contains example code for my two blog posts 
 Setting up ASP.NET Core in Visual Studio 2017 with npm, webpack, and TypeScript [Part I][1] and [Part 2][2].
